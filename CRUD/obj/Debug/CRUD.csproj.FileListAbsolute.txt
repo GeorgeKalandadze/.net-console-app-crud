@@ -6,3 +6,11 @@ C:\Users\user\OneDrive\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingR
 C:\Users\user\OneDrive\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
 C:\Users\user\OneDrive\Desktop\CRUD\CRUD\obj\Debug\CRUD.exe
 C:\Users\user\OneDrive\Desktop\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\bin\Debug\CRUD.exe
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\bin\Debug\CRUD.pdb
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\obj\Debug\CRUD.exe
+C:\Users\user\OneDrive\Desktop\.net-console-app-crud\CRUD\obj\Debug\CRUD.pdb

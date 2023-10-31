@@ -60,11 +60,9 @@ class Program
             try
             {
                 connection.Open();
-                string insertQuery = "INSERT INTO products (Name, category_ID, Price) " +
-                                     "VALUES (@ProductName, @CategoryId, @Price)";
-
-                using (SqlCommand insertCommand = new SqlCommand(insertQuery, connection))
+                using (SqlCommand insertCommand = new SqlCommand("CreateProduct", connection))
                 {
+                    insertCommand.CommandType = System.Data.CommandType.StoredProcedure;
                     insertCommand.Parameters.AddWithValue("@ProductName", productName);
                     insertCommand.Parameters.AddWithValue("@CategoryId", categoryId);
                     insertCommand.Parameters.AddWithValue("@Price", price);
